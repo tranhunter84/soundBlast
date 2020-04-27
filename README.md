@@ -9,6 +9,9 @@ Failing to place .wav files in the top level of the folder (by placing .wav
 files in a folder within the Soundblast folder) will result in the program 
 not working properly.
 
+Right click main.py and edit with python IDLE. (Comes pre-installed with MacOS)
+In Line 11 where it reads FOLDER_PATH, add your username where indicated, and then save the changes.
+
 Then double click main.py to begin the program.
 
 ## File Type Conversion Sites
