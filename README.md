@@ -12,6 +12,9 @@ not working properly.
 Right click main.py and edit with python IDLE. (Comes pre-installed with MacOS)
 In Line 11 where it reads FOLDER_PATH, add your username where indicated, and then save the changes.
 
+Create a new folder in Desktop named 'Soundblast', and add main.py and the desired
+.wav files into the folder.
+
 Then double click main.py to begin the program.
 
 ## File Type Conversion Sites
