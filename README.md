@@ -1,5 +1,5 @@
 # Soundblast
-Basic .wav music file player, based in python. Confirmed working with Windows OS.
+Basic .wav music file player built for python. Confirmed working with Windows OS.
 
 ## Usage
 
